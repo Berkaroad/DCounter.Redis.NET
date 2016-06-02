@@ -1,2 +1,2 @@
-# DCounter.Redis.NET
+# DCounter.Redis.Net
 Implement DCounter with redis.
